@@ -1,0 +1,45 @@
+// Introducción //
+
+Qué es JavaScript? 
+
+Es un lenguaje interpretado el cual es ejecutado y entendido por navegadores web.
+No sólo es utilizado en el frontend sino que también puede ser utilizado en la parte del servidor,
+es decir, en el backend. Tecnologías que se utilizan en backend son: node JS y frameworks basados 
+en java JavaScript como React, Vue o Angular. 
+
+El lenguaje de JavaScript se basa en el estándar de Eggman Script, el cual se actualiza cada año. 
+Por lo tanto es un lenguaje que está en constante evolución. 
+
+// // 
+
+Herramientas para trabajar con JS: 
+1.- Instalación de Visual Studio Code
+2.- Instalar Node.JS (www.nodejs.org/en/download/)
+
+// //
+Extensiones para Visual Studio Code: 
+1.- Bracket pair colorizer: permite conocer dónde se abre y se cierra una llave o un parentesis. 
+2.- ESLint: permite agregar formato al código que se está escribiendo. 
+3.- prettier code: para dar formato también. 
+4.- debbuger for chrome: permite trabajar directamente con VSC para hacer debbug
+5.- better comments: diferencía los comentarios que se agreguen al código.
+6.- Visual Studio IntelliCode: permite completas el código de manera inteligente cuando se está escribiendo. 
+7.- Live server: despliega un servidor de manera local para visualizar el proyecto.
+
+// // 
+Variables: es la manera en la que se le da nombre a un valor para poder usarlo. Estas pueden guardar cualquier tipo 
+de dato tal como números, fechas, carácteres, cadenas de tipo texto, etc. 
+Las variables dentro de JavaScript no necesitan que el programador les asigne su tipo de dato, ya que ellas por sí solas
+son capaces de adoptar el tipo de dato que se les asigne. Es decir, ellas solas cambian el tipo de dato de manera dinámica. 
+Las variables se asignan escribiendo el nombre de la variable luego un signo de =, que es el que asigna su valor y el valor
+entre comillas y finalizando la línea con un ;
+
+
+Para realizar la acción de imprimir en consola, es necesario tener nuestro archivo de js conectado a un archivo de html.
+Es decir se crea un index.html y dentro del body se asigna la etiqueta script con su source (src) y en ese la ruta del archivo JS. 
+Posterior a eso, abrimos nuestro html con clic derecho y abriendo live server, luego clic derecho e inspeccionar y consola. 
+
+// TIPOS DE DATOS // 
+String - Cadena y se escriben entre comillas dobles.
+
+
