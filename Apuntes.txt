@@ -39,7 +39,13 @@ Para realizar la acción de imprimir en consola, es necesario tener nuestro arch
 Es decir se crea un index.html y dentro del body se asigna la etiqueta script con su source (src) y en ese la ruta del archivo JS. 
 Posterior a eso, abrimos nuestro html con clic derecho y abriendo live server, luego clic derecho e inspeccionar y consola. 
 
+
+Clase 2.- 
+
 // TIPOS DE DATOS // 
 String - Cadena y se escriben entre comillas dobles.
+number - Datos númericos y estos van escritos sin comillas.
+Objeto - Un objeto es cualquier cosa que contenga una serie de características que la describan o la detallen. 
 
+Los comentarios de una sola línea son con // y de varias líneas se realiza con /* */
 
